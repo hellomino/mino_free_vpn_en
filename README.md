@@ -5,6 +5,7 @@
 
 🔗 Website: https://minoproxy.com/  
 🚀 One-click connect • Fast speed • No registration • Supports Windows, Android, macOS, Chrome, and more.
+🚀 free vpn • best free vpn • free vpn no signup • free vpn for privacy
 
 ---
 
@@ -163,6 +164,7 @@ Just open a Pull Request!
 
 ## ❤️ Thanks
 
-Enjoy your journey with Minoproxy!  
+Enjoy your journey with Mino!  
 If you found this guide useful, star ⭐ the repo to help others discover it.
+And If you later need faster, cheap & stable VPN, I’m building one.
 

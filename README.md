@@ -4,7 +4,7 @@
 > A complete guide to using **Minoproxy** across devices with simple steps and visuals.
 
 🔗 Website: https://minoproxy.com/  
-🚀 One-click connect • Fast speed • No registration • Supports Windows, Android, macOS, Chrome, and more.
+🚀 One-click connect • Fast speed • No registration • Supports Windows, Android, macOS, Chrome, and more.<br>
 🚀 free vpn • best free vpn • free vpn no signup • free vpn for privacy
 
 ---
